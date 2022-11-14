@@ -7,8 +7,7 @@ export default function Home() {
         <h1 className='name' style={{
             color: "black",
             fontSize: "80px",
-            fontFamily: "Papyrus",
-           
+            fontFamily: "Papyrus",         
           }}
         > Chaithanya Rao R</h1>
         <p
@@ -24,7 +23,8 @@ export default function Home() {
             width:"800px",
             fontSize: "25px",
             fontFamily: "Garamond",
-            marginLeft:"250px"}}> As a passionate artist, I work hard to produce magnificent
+            marginLeft:"250px",
+            }}> As a passionate artist, I work hard to produce magnificent
           illustrations, paintings, and websites that enthral viewers. I am
           quick with numbers, skilled at critical thinking, and have a very
           creative mind and vivid imagination. I took a break after engineering,

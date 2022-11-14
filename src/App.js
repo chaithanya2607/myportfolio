@@ -1,12 +1,12 @@
 import "./App.css";
-import Home from "./Home";
-import Skills from "./Skills";
-import Sidebar from "./Sidebar";
-import Footer from "./Footer";
-import Navbar from "./Navbar";
+import Home from "./components/Home";
+import Skills from "./components/Skills";
+import Sidebar from "./components/Sidebar";
+import Footer from "./components/Footer";
+import Navbar from "./components/Navbar";
 import {Routes,Route} from 'react-router-dom';
-import Contact from "./Contact";
-import Projects from "./Projects";
+import Contact from "./components/Contact";
+import Projects from "./components/Projects";
 
 
 function App() {

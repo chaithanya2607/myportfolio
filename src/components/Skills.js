@@ -26,7 +26,7 @@ export default function Skills() {
           <div
             className="progress-bar progress-bar-striped progress-bar-animated bg-info"
             role="progressbar"
-            style={{ width: "50%" }}
+            style={{ width: "70%" }}
           >
             <label>Node js</label>
           </div>
@@ -35,7 +35,7 @@ export default function Skills() {
           <div
             className="progress-bar progress-bar-striped progress-bar-animated bg-warning"
             role="progressbar"
-            style={{ width: "75%" }}
+            style={{ width: "50%" }}
           >
             <label>HTML</label>
           </div>
@@ -44,7 +44,7 @@ export default function Skills() {
           <div
             className="progress-bar progress-bar-striped progress-bar-animated bg-danger"
             role="progressbar"
-            style={{ width: "100%" }}
+            style={{ width: "90%" }}
           >
             <label>CSS</label>
           </div>
@@ -53,7 +53,7 @@ export default function Skills() {
           <div
             className="progress-bar progress-bar-striped progress-bar-animated"
             role="progressbar"
-            style={{ width: "50%" }}
+            style={{ width: "80%" }}
           >
             <label>Javascript</label>
           </div>
@@ -62,7 +62,7 @@ export default function Skills() {
           <div
             className="progress-bar progress-bar-striped progress-bar-animated bg-info"
             role="progressbar"
-            style={{ width: "50%" }}
+            style={{ width: "70%" }}
           >
             <label>Mongo db</label>
           </div>
@@ -80,7 +80,7 @@ export default function Skills() {
           <div
             className="progress-bar progress-bar-striped progress-bar-animated bg-danger"
             role="progressbar"
-            style={{ width: "100%" }}
+            style={{ width: "80%" }}
           >
             <label>My SQL</label>
           </div>

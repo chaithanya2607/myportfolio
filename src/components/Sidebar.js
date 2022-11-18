@@ -4,7 +4,7 @@ import { useNavigate } from "react-router-dom";
 export default function Sidebar() {
   const navigate = useNavigate();
   return (
-    <div style={{ marginTop: "-40px", position: "relative" }}>
+    <div style={{display:"relative",marginTop:"-60px"}}>
       <div style={{ backgroundColor: "	#A9A9A9" }} className="sidebar">
         <a onClick={() => navigate("/")}>Home</a>
         <a onClick={() => navigate("/projects")}>Projects</a>

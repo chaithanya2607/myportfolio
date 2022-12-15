@@ -8,7 +8,7 @@ export default function Navbar() {
   </button>
   <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
     <div className="navbar-nav ml-auto ">
-      <a style={{ color: "black" }} className="nav-link active" href="https://drive.google.com/file/d/1y485ae4qOjnF5UxZatBJ_ML0L451WIQX/view?usp=share_link" target="_blank">Resume</a>
+      <a style={{ color: "black" }} className="nav-link active" href="https://drive.google.com/file/d/1Ha0_s9sNBQxQ8XcAUuEnqqbw0IrO0HxG/view?usp=sharing" target="_blank">Resume</a>
       <a  style={{ color: "black" }} className="nav-link"  href="https://github.com/chaithanya2607" target="_blank">Github</a>
       <a  style={{ color: "black" }} className="nav-link" href="https://www.linkedin.com/in/chaithanya-r-b9b74712a/" target="_blank">LinkedIn</a>
       <a  style={{ color: "black" }} className="nav-link " href="https://www.instagram.com/chaithanya_rao_r/" target="_blank">Instagram</a>

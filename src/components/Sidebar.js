@@ -6,10 +6,13 @@ export default function Sidebar() {
   return (
     <div style={{display:"relative",marginTop:"-60px"}}>
       <div style={{ backgroundColor: "	#A9A9A9" }} className="sidebar">
-        <a onClick={() => navigate("/")}>Home</a>
-        <a onClick={() => navigate("/projects")}>Projects</a>
+        <a onClick={() => navigate("/")}>About</a>
         <a onClick={() => navigate("/skills")}>Skills</a>
-        <a onClick={() => navigate("/contactme")}>Contact me</a>
+        <a onClick={() => navigate("/projects")}>Projects</a>
+        <a onClick={() => navigate("/experience")}>Professional Experience</a>
+        <a onClick={() => navigate("/intrests")}>Interests</a>
+        <a onClick={() => navigate("/contactme")}>Contact Me</a>
+
       </div>
 
       <div className="content">..</div>

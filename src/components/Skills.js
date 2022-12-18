@@ -12,7 +12,7 @@ export default function Skills() {
       >
         Skills
       </h1>
-      <div style={{ width: "600px", marginLeft: "200px" }}>
+      <div style={{ width: "600px", marginLeft: "200px"}}>
         <div style={{ height: "30px", margin: "20px" }} className="progress">
           <div
             className="progress-bar progress-bar-striped progress-bar-animated"

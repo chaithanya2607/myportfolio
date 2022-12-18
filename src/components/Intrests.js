@@ -24,7 +24,7 @@ export default function Intrests() {
         </div>
         <div style={{ height: "30px", margin: "20px" }} className="progress">
           <div
-            className="progress-bar progress-bar-striped progress-bar-animated bg-info"
+            className="progress-bar progress-bar-striped progress-bar-animated bg-danger"
             role="progressbar"
             style={{ width: "100%" }}
           >
@@ -33,7 +33,7 @@ export default function Intrests() {
         </div>
         <div style={{ height: "30px", margin: "20px" }} className="progress">
           <div
-            className="progress-bar progress-bar-striped progress-bar-animated bg-warning"
+            className="progress-bar progress-bar-striped progress-bar-animated "
             role="progressbar"
             style={{ width: "100%" }}
           >
@@ -60,7 +60,7 @@ export default function Intrests() {
         </div>
         <div style={{ height: "30px", margin: "20px" }} className="progress">
           <div
-            className="progress-bar progress-bar-striped progress-bar-animated bg-info"
+            className="progress-bar progress-bar-striped progress-bar-animated bg-danger"
             role="progressbar"
             style={{ width: "100%" }}
           >
